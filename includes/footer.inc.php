@@ -36,14 +36,14 @@
           </div>
         </div>
         <p class='copyright'>
-          &copy; Copyright <?php $startYear = 2023;
+          &copy; Copyright <?php $startYear = 2024;
           $thisYear = date('Y');
           if ($startYear == $thisYear){
             echo $startYear;
           } else {
               echo '{$startYear}&#8211;{$thisYear}';
             }
-          ?>. EP&O Electronic Purchase & Order. Todos los derechos reservados.
+          ?>. EP&O Electronic Purchase & Order. Todos los derechos reservados. Powered by <a href="https://www.maypretec.com">Maypretec</a>
         </p>
       </div>
     </footer>
