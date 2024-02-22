@@ -23,15 +23,12 @@
 						<div class='contact-info'>
 							<span><i class='la la-phone'></i></span>
 							<h2>Telephone</h2>
-							<p> (656) 689-9149</p>
+							<p> (656) 791-2084</p>
 						</div>
 						<div class='contact-info'>
 							<span><i class='la la-envelope'></i></span>
 							<h2>Email</h2>
 							<a href='mailto:contacto@epno.com.mx'><p> contacto@epno.com.mx</p></a>
-							<a href='mailto:proveeduria@epno.com.mx'><p> proveeduria@epno.com.mx</p></a>
-							<a href='mailto:industria@epno.com.mx'><p> industria@epno.com.mx</p></a>
-							<a href='mailto:finanzas@epno.com.mx'><p> finanzas@epno.com.mx</p></a>
 						</div>
 						<div class='contact-info'>
 							<span><i class='la la-map-marker'></i></span>

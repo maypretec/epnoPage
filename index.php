@@ -102,8 +102,8 @@
 		</div>
 		<div class='video-app-box'>
 			<!-- Vimeo -->
-			<video controls poster='/upload/poster.png' width='100%'>
-				<source src='upload/EPO-1.mp4' type='video/mp4'>
+			<video controls poster='/upload/poster01.png' width='100%'>
+				<source src='upload/vid01.mp4' type='video/mp4'>
 				Your browser does not support the video tag.
 			</video>
 			<!-- End Vimeo -->
@@ -321,22 +321,13 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Teléfono</h2>
-						<p> (656) 689-9149</p>
+						<p> (656) 791-2084</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>
 						<h2>Email</h2>
 						<a href='mailto:contacto@epno.com.mx'>
 							<p> contacto@epno.com.mx</p>
-						</a>
-						<a href='mailto:proveeduria@epno.com.mx'>
-							<p> proveeduria@epno.com.mx</p>
-						</a>
-						<a href='mailto:industria@epno.com.mx'>
-							<p> industria@epno.com.mx</p>
-						</a>
-						<a href='mailto:finanzas@epno.com.mx'>
-							<p> finanzas@epno.com.mx</p>
 						</a>
 					</div>
 					<div class='contact-info'>

@@ -29,7 +29,14 @@
 				</div>
 				<div class='col-md-7'>
 					<div class='top-block-image'>
-						<img src='images/dev9.png' alt=''>
+					<div class='video-app-box'>
+						<!-- Vimeo -->
+						<video controls poster='/upload/poster02.png' width='100%'>
+							<source src='upload/vid02.mp4' type='video/mp4'>
+							Your browser does not support the video tag.
+						</video>
+						<!-- End Vimeo -->
+					</div>
 					</div>
 				</div>
 			</div>
@@ -181,83 +188,34 @@
 		</div>
 
 		<!-- Nav tabs -->
-		<ul class='nav nav-tabs' id='#myTabs' role='tablist'>
-			<li role='presentation' class='active'>
-				<a href='#monthly' aria-controls='monthly' role='tab' data-toggle='tab'>Mensual</a>
-			</li>
-			<li role='presentation'>
-				<a href='#annual' aria-controls='annual' role='tab' data-toggle='tab'>Anual</a>
-				<span>Ahorra un 20% anual</span>
-			</li>
-		</ul>
+        <ul class='nav nav-tabs' id='myTabs' role='tablist'>
+            <li role='presentation'>
+                <a href='#annual' aria-controls='annual' role='tab' data-toggle='tab' style='pointer-events: none;'>SUSCRIPCIONES ANUALES</a>
+            </li>
+        </ul>
 
 		<!-- Tab panes -->
 		<div class='tab-content'>
-			<div role='tabpanel' class='tab-pane active' id='monthly'>
+			<div role='tabpanel' class='tab-pane active' id='annual'>
 				<div class='pricing-box'>
 					<ul class='pricing-table basic'>
 						<li>
-							<h2>Plan Gratis</h2>
+							<h2>Plan Plata</h2>
 						</li>
 						<li class='title'>
-							<p>$<span>0</span> / mes</p>
+							<p>$<span>500 </span> / usd</p>
 						</li>
 						<li>
-							<p>Participa en licitaciones de proyectos industriales como parte de nuestra red de proveedores</p>
+							<p>Visitas de prospección</p>
 						</li>
 						<li>
-							<p>Mejor calidad, precio y tiempo de entrega se traduce en más órdenes.</p>
+							<p>60 dias de crédito</p>
 						</li>
 						<li>
-							<a class='button-one' href='https://epno-page.web.app/'>Quiero Invertir</a>
-						</li>
-					</ul>
-
-					<ul class='pricing-table business'>
-						<li>
-							<h2>Plan Profesional</h2>
-						</li>
-						<li class='title'>
-							<p>$<span>800</span> / mes</p>
+							<p>Promotoría</p>
 						</li>
 						<li>
-							<p>Participa en licitaciones de proyectos industriales como parte de nuestra red de proveedores.</p>
-						</li>
-						<li>
-							<p>Adelanta tu pago por un monto mínimo.</p>
-						</li>
-						<li>
-							<p>Mejor calidad, precio y tiempo de entrega se traduce en más órdenes</p>
-						</li>
-						<li>
-							<p>Agenda reuniones con personas con poder de decisión.</p>
-						</li>
-						<li>
-							<p>Soporte técnico 24/7</p>
-						</li>
-						<li>
-							<p>Posicionamiento de marca.</p>
-						</li>
-						<li>
-							<a class='button-one' href='https://epno-page.web.app/'>Quiero Invertir</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div role='tabpanel' class='tab-pane' id='annual'>
-				<div class='pricing-box'>
-					<ul class='pricing-table basic'>
-						<li>
-							<h2>Plan Gratuito</h2>
-						</li>
-						<li class='title'>
-							<p>$<span>0</span> / anual</p>
-						</li>
-						<li>
-							<p>Participa en licitaciones de proyectos industriales como parte de nuestra red de proveedores</p>
-						</li>
-						<li>
-							<p>Mejor calidad, precio y tiempo de entrega se traduce en más órdenes.</p>
+							<p>Catálogo</p>
 						</li>
 						<a class='button-one' href='https://epno-page.web.app/'>Invierte Ahora</a>
 						</li>
@@ -268,33 +226,81 @@
 							<p>Mejor Oferta</p>
 						</li>
 						<li>
-							<h2>Plan Profesional</h2>
+							<h2>Plan Diamante</h2>
 						</li>
 						<li class='title'>
-							<p>$<span>7,500</span> / anual</p>
+							<p>$<span>1,000 </span> / usd</p>
 						</li>
 						<li>
-							<p>Participa en licitaciones de proyectos industriales como parte de nuestra red de proveedores.</p>
+							<p>4 visitas de negocios industriales</p>
 						</li>
 						<li>
-							<p>Adelanta tu pago por un monto mínimo.</p>
+							<p>Visitas de prospección</p>
 						</li>
 						<li>
-							<p>Mejor calidad, precio y tiempo de entrega se traduce en más órdenes</p>
+							<p>1 video promocional</p>
 						</li>
 						<li>
-							<p>Agenda reuniones con personas con poder de decisión.</p>
+							<p>Acceso a factoraje:</p>
+							<p>->    5 % comision por factura</p>
 						</li>
 						<li>
-							<p>Soporte técnico 24/7</p>
-						</li>
-						<li class='users-available'>
-							<p>Posicionamiento de marca.</p>
+							<p>Networking:</p>
+							<p>->    2 accesos gratis a eventos</p>
 						</li>
 						<li>
-							<a class='button-one' href='https://epno-page.web.app/'>Invierte Ahora</a>
+							<p>3 meses de presencia en carrusel de página web EP&O</p>
+						</li>
+						<li>
+							<p>45 dias de crédito</p>
+						</li>
+						<li>
+							<p>Promotoría</p>
+						</li>
+						<li>
+							<p>Catálogo</p>
+						</li>
+						<a class='button-one' href='https://epno-page.web.app/'>Invierte Ahora</a>
 						</li>
 					</ul>
+
+					<ul class='pricing-table basic'>
+						<li>
+							<h2>Plan Oro</h2>
+						</li>
+						<li class='title'>
+							<p>$<span>750 </span> / usd</p>
+						</li>
+						<li>
+							<p>2 visitas de negocios industriales</p>
+						</li>
+						<li>
+							<p>Visitas de prospección</p>
+						</li>
+						<li>
+							<p>1 video promocional</p>
+						</li>
+						<li>
+							<p>Acceso a factoraje:</p>
+							<p>7.5 % comision por factura</p>
+						</li>
+						<li>
+							<p>Networking</p>
+							<p>1 acceso gratis a eventos</p>
+						</li>
+						<li>
+							<p>45 dias de crédito</p>
+						</li>
+						<li>
+							<p>Promotoría</p>
+						</li>
+						<li>
+							<p>Catálogo</p>
+						</li>
+						<a class='button-one' href='https://epno-page.web.app/'>Invierte Ahora</a>
+						</li>
+					</ul>
+
 				</div>
 			</div>
 		</div>
@@ -390,22 +396,13 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Teléfono</h2>
-						<p> (656) 689-9149</p>
+						<p> (656) 791-2084</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>
 						<h2>Email</h2>
 						<a href='mailto:contacto@epno.com.mx'>
 							<p> contacto@epno.com.mx</p>
-						</a>
-						<a href='mailto:proveeduria@epno.com.mx'>
-							<p> proveeduria@epno.com.mx</p>
-						</a>
-						<a href='mailto:industria@epno.com.mx'>
-							<p> industria@epno.com.mx</p>
-						</a>
-						<a href='mailto:finanzas@epno.com.mx'>
-							<p> finanzas@epno.com.mx</p>
 						</a>
 					</div>
 					<div class='contact-info'>

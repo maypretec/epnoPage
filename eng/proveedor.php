@@ -29,7 +29,14 @@
 				</div>
 				<div class='col-md-7'>
 					<div class='top-block-image'>
-						<img src='../images/dev9.png' alt=''>
+					<div class='video-app-box'>
+						<!-- Vimeo -->
+						<video controls poster='/upload/poster02.png' width='100%'>
+							<source src='upload/vid02.mp4' type='video/mp4'>
+							Your browser does not support the video tag.
+						</video>
+						<!-- End Vimeo -->
+					</div>
 					</div>
 				</div>
 			</div>
@@ -174,92 +181,43 @@
 
 <!-- pricing-section 
 			================================================== -->
-<section id='pricing-section' class='image-background2'>
+			<section id='pricing-section' class='image-background2'>
 	<div class='container'>
 		<div class='title-section white'>
-			<h1>How can We Work Together?”</h1>
+			<h1>How can we work together?</h1>
 		</div>
 
 		<!-- Nav tabs -->
-		<ul class='nav nav-tabs' id='#myTabs' role='tablist'>
-			<li role='presentation' class='active'>
-				<a href='#monthly' aria-controls='monthly' role='tab' data-toggle='tab'>Monthly</a>
-			</li>
-			<li role='presentation'>
-				<a href='#annual' aria-controls='annual' role='tab' data-toggle='tab'>Yearly</a>
-				<span>Save 20% per year</span>
-			</li>
-		</ul>
+        <ul class='nav nav-tabs' id='myTabs' role='tablist'>
+            <li role='presentation'>
+                <a href='#annual' aria-controls='annual' role='tab' data-toggle='tab' style='pointer-events: none;'>YEARLY SUBSCRIPTIONS</a>
+            </li>
+        </ul>
 
 		<!-- Tab panes -->
 		<div class='tab-content'>
-			<div role='tabpanel' class='tab-pane active' id='monthly'>
+			<div role='tabpanel' class='tab-pane active' id='annual'>
 				<div class='pricing-box'>
 					<ul class='pricing-table basic'>
 						<li>
-							<h2>Free Plan</h2>
+							<h2>Silver Plan</h2>
 						</li>
 						<li class='title'>
-							<p>$<span>0</span> / month</p>
+							<p>$<span>500 </span> / usd</p>
 						</li>
 						<li>
-							<p>Participate in tenders for industrial projects as part of our supplier network</p>
+							<p>Prospecting Visits</p>
 						</li>
 						<li>
-							<p>Better quality, price and delivery time translates into more orders.</p>
+							<p>60 days credit</p>
 						</li>
 						<li>
-							<a class='button-one' href='#'>I Want to Invest</a>
-						</li>
-					</ul>
-
-					<ul class='pricing-table business'>
-						<li>
-							<h2>Profesional Plan</h2>
-						</li>
-						<li class='title'>
-							<p>$<span>800</span> / Pesos per Month</p>
+							<p>Promotion</p>
 						</li>
 						<li>
-							<p>Participate in tenders for industrial projects as part of our supplier network.</p>
+							<p>Catalog</p>
 						</li>
-						<li>
-							<p>Advance your payment for a minimum amount.</p>
-						</li>
-						<li>
-							<p>Better quality, price and delivery time translates into more orders.</p>
-						</li>
-						<li>
-							<p>Schedule meetings with people with decision-making power.</p>
-						</li>
-						<li>
-							<p>24/7 technical support.</p>
-						</li>
-						<li>
-							<p>Brand positioning.</p>
-						</li>
-						<li>
-							<a class='button-one' href='#'>I Want to Invest</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div role='tabpanel' class='tab-pane' id='annual'>
-				<div class='pricing-box'>
-					<ul class='pricing-table basic'>
-						<li>
-							<h2>Free Plan</h2>
-						</li>
-						<li class='title'>
-							<p>$<span>0</span> / Yearly</p>
-						</li>
-						<li>
-							<p>Participate in tenders for industrial projects as part of our supplier network.</p>
-						</li>
-						<li>
-							<p>Better quality, price and delivery time translates into more orders.</p>
-						</li>
-						<a class='button-one' href='#'>Invest Now</a>
+						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
 						</li>
 					</ul>
 
@@ -268,39 +226,88 @@
 							<p>Best Offer</p>
 						</li>
 						<li>
-							<h2>Profesional Plan</h2>
+							<h2>Diamond Plan</h2>
 						</li>
 						<li class='title'>
-							<p>$<span>7,500</span> / Pesos Yearly</p>
+							<p>$<span>1,000 </span> / usd</p>
 						</li>
 						<li>
-							<p>Participate in tenders for industrial projects as part of our supplier network.</p>
+							<p>4 industrial business visits</p>
 						</li>
 						<li>
-							<p>Advance your payment for a minimum amount.</p>
+							<p>Prospecting Visits</p>
 						</li>
 						<li>
-							<p>Better quality, price and delivery time translates into more orders.</p>
+							<p>1 promotional video</p>
 						</li>
 						<li>
-							<p>Schedule meetings with people with decision-making power.</p>
+							<p>Access to factoring:</p>
+							<p>5% commission per invoice</p>
 						</li>
 						<li>
-							<p>24/7 technical support.</p>
+							<p>Networking</p>
+							<p>2 free event accesses</p>
 						</li>
 						<li>
-							<p>Brand positioning.</p>
+							<p>3 months presence in EP&O website carousel</p>
 						</li>
 						<li>
-							<a class='button-one' href='#'>Invest Now</a>
+							<p>45 days credit</p>
+						</li>
+						<li>
+							<p>Promotion</p>
+						</li>
+						<li>
+							<p>Catalog</p>
+						</li>
+						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
 						</li>
 					</ul>
+
+					<ul class='pricing-table basic'>
+						<li>
+							<h2>Gold Plan</h2>
+						</li>
+						<li class='title'>
+							<p>$<span>750 </span> / usd</p>
+						</li>
+						<li>
+							<p>2 industrial business visits</p>
+						</li>
+						<li>
+							<p>Prospecting Visits</p>
+						</li>
+						<li>
+							<p>1 promotional video</p>
+						</li>
+						<li>
+							<p>Access to factoring:</p>
+							<p>->    7.5% commission per invoice</p>
+						</li>
+						<li>
+							<p>Networking:</p>
+							<p>->    1 free event access</p>
+						</li>
+						<li>
+							<p>45 days credit</p>
+						</li>
+						<li>
+							<p>Promotion</p>
+						</li>
+						<li>
+							<p>Catalog</p>
+						</li>
+						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
+						</li>
+					</ul>
+
 				</div>
 			</div>
 		</div>
 
 	</div>
 </section>
+
 <!-- End pricing section -->
 
 
@@ -390,22 +397,13 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Telephone</h2>
-						<p> (656) 689-9149</p>
+						<p> (656) 791-2084</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>
 						<h2>Email</h2>
 						<a href='mailto:contacto@epno.com.mx'>
 							<p> contacto@epno.com.mx</p>
-						</a>
-						<a href='mailto:proveeduria@epno.com.mx'>
-							<p> proveeduria@epno.com.mx</p>
-						</a>
-						<a href='mailto:industria@epno.com.mx'>
-							<p> industria@epno.com.mx</p>
-						</a>
-						<a href='mailto:finanzas@epno.com.mx'>
-							<p> finanzas@epno.com.mx</p>
 						</a>
 					</div>
 					<div class='contact-info'>

@@ -704,7 +704,7 @@ section#home-section div.top-block2 .clients-box ul.client-list li:first-child i
   max-height: 20px;
 }
 section#home-section div.top-block2 .top-block-image {
-  margin-top: -100px;
+  margin-top: -40px;
 }
 section#home-section div.top-block2 .image-rounded {
   position: absolute;
@@ -1814,7 +1814,6 @@ section#pricing-section.image-background2 .title-section {
   margin-bottom: 30px;
 }
 section#pricing-section.image-background2 .pricing-box {
-  max-width: 630px;
   margin: 0 auto;
   display: flex;
 }
