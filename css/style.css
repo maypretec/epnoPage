@@ -97,7 +97,6 @@ website:    http://www.themepunch.com
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   margin: 0;
-  padding: 0 30px;
 }
 .navbar-default .inner-header {
   border-bottom: 1px solid #444444;
@@ -108,8 +107,8 @@ website:    http://www.themepunch.com
 }
 .navbar-default a.button-two {
   margin-top: 15px;
-  margin-left: 45px;
-  padding: 9px 28px;
+  margin-left: 15px;
+  padding: 9px 20px;
 }
 .navbar-default .lang-toggle {
     margin-top: 20px;
@@ -335,7 +334,6 @@ text-align: left;
 }
 .typewriter {
   display: flex;
-  padding-left: 25px;
   float: left;
 }
 

@@ -42,7 +42,8 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
             <div class='extra-on-menu' >
-              <a class='button-two target-link' href='https://dev.clinet.epno.app/'>Register</a>
+            <a class='button-two target-link' href='https://epno-page.web.app/register'>Register</a>
+              <a class='button-two target-link' href='https://epno-page.web.app/login'>Login</a>
               <div class='lang-toggle'>
                   <span>ENG</span>
                   <a hreflang='es' rel='alternate' title='Switch to Spanish' href='../index.php'>

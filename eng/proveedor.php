@@ -11,8 +11,8 @@
 						<p>With EP&O:</p>
 						<h1>Extend your reach as an <strong>industrial</strong> supplier</h1>
 						<h2>Join our supply network and grow your sales in the industrial sector</h2>
-						<a class='button-one target-link' href='#features-section3'>
-							Sign Up
+						<a class='button-one target-link' href='https://epno-page.web.app/register'>
+							Register
 						</a>
 						<!-- <a class='btn-txt target-link' href='#video-section'> <i class='fa fa-play'></i>Watch Video</a> -->
 						<div class='clients-box'>
@@ -191,6 +191,7 @@
         <ul class='nav nav-tabs' id='myTabs' role='tablist'>
             <li role='presentation'>
                 <a href='#annual' aria-controls='annual' role='tab' data-toggle='tab' style='pointer-events: none;'>YEARLY SUBSCRIPTIONS</a>
+				<p>Prices do not include TAX*</p>
             </li>
         </ul>
 
@@ -217,7 +218,7 @@
 						<li>
 							<p>Catalog</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
+						<a class='button-one' href='https://epno-page.web.app/register'>Invest Now</a>
 						</li>
 					</ul>
 
@@ -260,7 +261,7 @@
 						<li>
 							<p>Catalog</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
+						<a class='button-one' href='https://epno-page.web.app/register'>Invest Now</a>
 						</li>
 					</ul>
 
@@ -297,7 +298,7 @@
 						<li>
 							<p>Catalog</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/'>Invest Now</a>
+						<a class='button-one' href='https://epno-page.web.app/register'>Invest Now</a>
 						</li>
 					</ul>
 
