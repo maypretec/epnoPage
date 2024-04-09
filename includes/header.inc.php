@@ -71,6 +71,10 @@
                 </ul>
               </li>
               <li><a href='contacto.php' data-offset='50'>Contacto</a></li>
+              <div class="buttons-mini">
+              <li><a class='button-mini' href='https://epno-page.web.app/register'>Regístrate</a></li>
+              <li><a class='button-mini' href='https://epno-page.web.app/login'>Iniciar Sesion</a></li>
+              </div>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->

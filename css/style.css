@@ -89,6 +89,9 @@ website:    http://www.themepunch.com
 /*-------------------------------------------------*/
 /* =  Header
 /*-------------------------------------------------*/
+.buttons-mini {
+  display: none;
+}
 .navbar-default {
   background: transparent;
   border: none;
@@ -3165,6 +3168,9 @@ footer.pattern-style p.copyright {
 /* =  Responsive Part
 /*-------------------------------------------------*/
 @media (max-width: 1600px) {
+  .buttons-mini {
+    display: none;
+  }
   section#features-section4 {
     padding: 100px 15px 70px;
   }
@@ -3189,6 +3195,9 @@ footer.pattern-style p.copyright {
   }
 }
 @media (max-width: 1400px) {
+  .buttons-mini {
+    display: none;
+  }
   section#home-section div.top-block2 .image-rounded {
     width: 80%;
   }
@@ -3212,6 +3221,9 @@ footer.pattern-style p.copyright {
   }
 }
 @media (max-width: 1199px) {
+  .buttons-mini {
+    display: none;
+  }
   #home-section .tp-caption.small_text {
     font-size: 20px;
     line-height: 26px;
@@ -3275,6 +3287,9 @@ footer.pattern-style p.copyright {
   }
 }
 @media (max-width: 991px) {
+  .buttons-mini {
+    display: none;
+  }
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: transparent !important;
   }
@@ -3395,6 +3410,29 @@ footer.pattern-style p.copyright {
   .navbar-default .lang-toggle {
     transform: translate(20px, 150px);
     z-index: 9999;
+  }
+  .lang-toggle {
+    display: none;
+  }
+  .buttons-mini {
+    min-height: 5vh;
+    max-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .buttons-mini li {
+    padding: 1%;
+  }
+  .button-mini {
+    color: #263a7c;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 10px 28px;
+    margin: 0;
+    background-color: #00d964;
+    border: 2px solid #00d964;
   }
   .navbar-nav > li > a {
     padding: 5px 15px !important;
