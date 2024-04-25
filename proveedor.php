@@ -11,7 +11,7 @@
 						<p>Con EP&O:</p>
 						<h1>Extiende tu alcance como proveedor <strong> industrial</strong></h1>
 						<h2>Súmate a nuestra red de proveeduría y crece tus ventas en el sector industrial</h2>
-						<a class='button-one target-link' href='https://epno-page.web.app/register'>
+						<a class='button-one target-link' href='https://app.epno.com.mx/register'>
 							Registrarme
 						</a>
 						<!-- <a class='btn-txt target-link' href='#video-section'> <i class='fa fa-play'></i>Watch Video</a> -->
@@ -218,7 +218,7 @@
 						<li>
 							<p>Catálogo</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/register'>Invierte Ahora</a>
+						<a class='button-one' href='https://app.epno.com.mx/register'>Invierte Ahora</a>
 						</li>
 					</ul>
 
@@ -261,7 +261,7 @@
 						<li>
 							<p>Catálogo</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/register'>Invierte Ahora</a>
+						<a class='button-one' href='https://app.epno.com.mx/register'>Invierte Ahora</a>
 						</li>
 					</ul>
 
@@ -298,7 +298,7 @@
 						<li>
 							<p>Catálogo</p>
 						</li>
-						<a class='button-one' href='https://epno-page.web.app/register'>Invierte Ahora</a>
+						<a class='button-one' href='https://app.epno.com.mx/register'>Invierte Ahora</a>
 						</li>
 					</ul>
 

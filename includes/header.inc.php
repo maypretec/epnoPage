@@ -42,8 +42,8 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
             <div class='extra-on-menu' >
-              <a class='button-two target-link' href='https://epno-page.web.app/register'>Regístrate</a>
-              <a class='button-two target-link' href='https://epno-page.web.app/login'>Iniciar Sesion</a>
+              <a class='button-two target-link' href='https://app.epno.com.mx/register'>Regístrate</a>
+              <a class='button-two target-link' href='https://app.epno.com.mx'>Iniciar Sesion</a>
               <div class='lang-toggle'>
                   <span>ESP</span>
                   <a hreflang='es' rel='alternate' title='Switch to English' href='eng/index.php'>
@@ -72,8 +72,8 @@
               </li>
               <li><a href='contacto.php' data-offset='50'>Contacto</a></li>
               <div class="buttons-mini">
-              <li><a class='button-mini' href='https://epno-page.web.app/register'>Regístrate</a></li>
-              <li><a class='button-mini' href='https://epno-page.web.app/login'>Iniciar Sesion</a></li>
+              <li><a class='button-mini' href='https://app.epno.com.mx/register'>Regístrate</a></li>
+              <li><a class='button-mini' href='https://app.epno.com.mx'>Iniciar Sesion</a></li>
               </div>
             </ul>
           </div><!-- /.navbar-collapse -->
