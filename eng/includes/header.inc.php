@@ -11,6 +11,7 @@
   <link rel='stylesheet' href='../css/kinetic-assets.min.css'>
   <link rel='stylesheet' href='../css/line-awesome.min.css'>
   <link rel='stylesheet' type='text/css' href='../css/style.css' media='screen'>
+  <link rel="icon" href="../upload/favicon.ico" type="image/x-icon">
 
   <script>(function(w, d) { w.CollectId = '64b4de305039f4e3b60808c1'; var h = d.head || d.getElementsByTagName('head')[0]; var s = d.createElement('script'); s.setAttribute('type', 'text/javascript'); s.async=true; s.setAttribute('src', 'https://collectcdn.com/launcher.js'); h.appendChild(s); })(window, document);</script>
 
@@ -42,7 +43,7 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
             <div class='extra-on-menu' >
-            <a class='button-two target-link' href='https://app.epno.com.mx/register'>Register</a>
+            <a class='button-two' href='https://app.epno.com.mx/\\#/register'>Register</a>
               <a class='button-two target-link' href='https://app.epno.com.mx'>Login</a>
               <div class='lang-toggle'>
                   <span>ENG</span>

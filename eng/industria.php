@@ -62,24 +62,17 @@
 	<div class='container'>
 		<div class='statistic-box'>
 			<div class='row'>
-				<div class='col-md-3 col-sm-6'>
-					<div class='statistic-post'>
-						<i class='la la-money' aria-hidden='true'></i>
-						<p><span class='timer' data-from='0' data-to='40'></span>M+</p>
-						<h2>Sales</h2>
-					</div>
-				</div>
-				<div class='col-md-3 col-sm-6'>
+				<div class='col-md-5 col-sm-6'>
 					<div class='statistic-post'>
 						<i class='la la-files-o' aria-hidden='true'></i>
-						<p><span class='timer' data-from='0' data-to='400'></span>+</p>
+						<p><span class='timer' data-from='0' data-to='700'></span>+</p>
 						<h2>Orders</h2>
 					</div>
 				</div>
-				<div class='col-md-3 col-sm-6'>
+				<div class='col-md-4 col-sm-6'>
 					<div class='statistic-post'>
 						<i class='la la-users' aria-hidden='true'></i>
-						<p><span class='timer' data-from='0' data-to='35'></span>+</p>
+						<p><span class='timer' data-from='0' data-to='60'></span>+</p>
 						<h2>Clients</h2>
 					</div>
 				</div>
@@ -306,7 +299,7 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Telephone</h2>
-						<p> (656) 791-2084</p>
+						<p> (656) 831-5340</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>

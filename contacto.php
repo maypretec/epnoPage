@@ -23,7 +23,7 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Teléfono</h2>
-						<p> (656) 791-2084</p>
+						<p> (656) 831-5340</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>

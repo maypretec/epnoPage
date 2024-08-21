@@ -147,8 +147,13 @@
 				<div class='col-md-3 col-sm-6'>
 					<div class='statistic-post'>
 						<i class='la la-building' aria-hidden='true'></i>
-						<p><span class='timer' data-from='0' data-to='4'></span></p>
-						<h2>Cities</h2>
+						<p><span class='timer' data-from='0' data-to='3'></span></p>
+						<h2>Countries</h2>
+						<div class="flags">
+							<img src="../upload/usa.jpg" alt="USA" style="width: 30px; height: auto; margin-right: 5px;">
+							<img src="../upload/mx.jpg" alt="México" style="width: 30px; height: auto; margin-right: 5px;">
+							<img src="../upload/cr.jpg" alt="Costa Rica" style="width: 30px; height: auto;">
+						</div>
 					</div>
 				</div>
 			</div>
@@ -426,7 +431,7 @@
 					<div class='contact-info'>
 						<span><i class='la la-phone'></i></span>
 						<h2>Telephone</h2>
-						<p> (656) 791-2084</p>
+						<p> (656) 831-5340</p>
 					</div>
 					<div class='contact-info'>
 						<span><i class='la la-envelope'></i></span>

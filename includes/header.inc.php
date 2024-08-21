@@ -11,6 +11,7 @@
   <link rel='stylesheet' href='css/kinetic-assets.min.css'>
   <link rel='stylesheet' href='css/line-awesome.min.css'>
   <link rel='stylesheet' type='text/css' href='css/style.css' media='screen'>
+  <link rel="icon" href="upload/favicon.ico" type="image/x-icon">
 
    <script>(function(w, d) { w.CollectId = '64b5a8215a75a9e3a5e296dd'; var h = d.head || d.getElementsByTagName('head')[0]; var s = d.createElement('script'); s.setAttribute('type', 'text/javascript'); s.async=true; s.setAttribute('src', 'https://collectcdn.com/launcher.js'); h.appendChild(s); })(window, document);</script>
 
@@ -42,8 +43,8 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
             <div class='extra-on-menu' >
-              <a class='button-two target-link' href='https://app.epno.com.mx/register'>Regístrate</a>
-              <a class='button-two target-link' href='https://app.epno.com.mx'>Iniciar Sesion</a>
+            <a class='button-two' href='https://app.epno.com.mx/#/register'>Regístrate</a>
+            <a class='button-two target-link' href='https://app.epno.com.mx'>Iniciar Sesion</a>
               <div class='lang-toggle'>
                   <span>ESP</span>
                   <a hreflang='es' rel='alternate' title='Switch to English' href='eng/index.php'>
@@ -72,7 +73,7 @@
               </li>
               <li><a href='contacto.php' data-offset='50'>Contacto</a></li>
               <div class="buttons-mini">
-              <li><a class='button-mini' href='https://app.epno.com.mx/register'>Regístrate</a></li>
+              <li><a class='button-mini' href='https://app.epno.com.mx/#/register'>Regístrate</a></li>
               <li><a class='button-mini' href='https://app.epno.com.mx'>Iniciar Sesion</a></li>
               </div>
             </ul>

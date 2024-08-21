@@ -8,9 +8,9 @@
               <h2>Follow Us:</h2>
                 <ul class='social-icons'>
                 <li><a class='facebook' href='https://www.facebook.com/epnomx' target='_blank'><i class='fa fa-facebook'></i></a></li>
-                <li><a class='instagram' href='#'><i class='fa fa-instagram'></i></a></li>
-                <li><a class='Linkedin' href='#'><i class='fa fa-linkedin'></i></a></li>
-                <li><a class='youtube' href='#'><i class='fa fa-youtube'></i></a></li>
+                <li><a class='instagram' href='https://www.instagram.com/epnomx/'><i class='fa fa-instagram'></i></a></li>
+                <li><a class='Linkedin' href='https://www.linkedin.com/company/epno/'><i class='fa fa-linkedin'></i></a></li>
+                <li><a class='youtube' href='https://www.youtube.com/@epnomx'><i class='fa fa-youtube'></i></a></li>
               </ul>
             </div>
           </div>
